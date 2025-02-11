@@ -1,0 +1,6 @@
+matplotlib==3.10.0
+numpy==2.2.2
+openai==1.61.1
+pandas==2.2.3
+tqdm==4.67.1
+vllm==0.6.6
