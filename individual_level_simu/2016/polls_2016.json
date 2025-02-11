@@ -1,0 +1,744 @@
+[
+    {
+        "code": "V162034a", 
+        "topic": "Voting-Related",
+        "question": "In the general election, what is your order of preference for the major party candidates?",
+        "options": [
+            "Refused",
+            "Democrat first / Republican second",
+            "Republican first / Democrat second"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [1802, 1290, 1178],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "-7": -2,
+            "-6": -2,
+            "-1": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2,
+            "4": -2,
+            "5": -2,
+            "7": -2,
+            "9": -2
+        }   
+    },
+    {
+        "code": "V161080",
+        "topic": "Politics",
+        "question": "Do you approve or disapprove of the way the U.S. Congress has been handling its job?",
+        "options": [
+            "Refused",
+            "Approve",
+            "Disapprove"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }   
+    },
+    {
+        "code": "V161081",
+        "topic": "Politics",
+        "question": "Do you feel things in this country are generally going in the right direction, or do you feel things have pretty seriously gotten off on the wrong track?",
+        "options": [
+            "Refused",
+            "Right Direction",
+            "Wrong track"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }   
+    },
+    {
+        "code": "V161082",
+        "topic": "Politics",
+        "question": "Do you feel things in this country are generally going in the right direction, or do you feel things have pretty seriously gotten off on the wrong track?",
+        "options": [
+            "Refused",
+            "Right Direction",
+            "Wrong track"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }   
+    },
+    {
+        "code": "V161139",
+        "topic": "Economy",
+        "question": "What do you think about the state of the economy these days in the United States? Would you say the state of the economy is [good, neither good nor bad, bad, or very bad]?",
+        "options": [
+            "Refused",
+            "good",
+            "neither good nor bad",
+            "bad"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 2,
+            "4": 3,
+            "5": 3
+        }   
+    },
+
+    {
+        "code": "V161204",
+        "topic": "Race Equality",
+        "question": "Do you favor or oppose allowing universities to increase the number of black students studying at their schools by considering race along with other factors when choosing students?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [1605, 782, 1883],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }   
+    },
+    {
+        "code": "V161205",
+        "topic": "Social Security",
+        "question": "What about Social Security? Should federal spending on Social Security be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [31, 2497, 257, 1485],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161206",
+        "topic": "Education",
+        "question": "What about public schools? Should federal spending on public schools be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [23, 2961, 326, 960],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161207",
+        "topic": "Science and Technology",
+        "question": "What about Science and technology? Should federal spending on science and technology be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [29, 2475, 319, 1447],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161208",
+        "topic": "Crime",
+        "question": "What about dealing with crime? Should federal spending on dealing with crime be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [23, 2691, 341, 1215],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161209",
+        "topic": "Welfare",
+        "question": "What about welfare programs? Should federal spending on welfare programs be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [42, 767, 1984, 1477],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161210",
+        "topic": "NotImplemented",
+        "question": "What about Child care? Should federal spending on child care be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },  
+    {
+        "code": "V161211",
+        "topic": "Wealth Gap",
+        "question": "What about aid to the poor? Should federal spending on aid to the poor be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [43, 1789, 729, 1709],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161212",
+        "topic": "Environment",
+        "question": "What about protecting the environment? Should federal spending on protecting the environment be increased, decreased, or kept the same?",
+        "options": [
+            "Refused",
+            "Increased",
+            "Decreased",
+            "Kept the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "answer": [31, 2264, 577, 1398],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }   
+    },
+    {
+        "code": "V161213",
+        "topic": "NotImplemented",
+        "question": "Do you favor or oppose the U.S. sending ground troops to fight Islamic militants, such as ISIS, in Iraq and Syria?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }   
+    },
+    {
+        "code": "V161217",
+        "topic": "NotImplemented",
+        "question": "People in government waste a lot/some of the money we pay in taxes. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 2
+        }   
+    },
+    {
+        "code": "V161220",
+        "topic": "Government",
+        "question": "Having elections makes the government pay more attention to what the people think. Do you agree or disagree with this statement?",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            3
+        ],
+        "answer": [17, 3146, 1107],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 3
+        }  
+    },
+    {
+        "code": "V161144",
+        "topic": "Economy",
+        "question": "Which party do you think would do a better job of handling the nation’s economy?",
+        "options": [
+            "Refused",
+            "Democrats would do a better job",
+            "Republicans would do a better job"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [1475, 1449, 1346],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2,
+            "4": -2
+        }
+    },
+    {
+        "code": "V161145",
+        "topic": "Voting-related",
+        "question": "Do you care who wins the presidential election this fall?",
+        "options": [
+            "Refused",
+            "Yes, I do",
+            "No, I don't"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 2
+        }
+    },
+    {
+        "code": "V161152",
+        "topic": "National Honor",
+        "question": "During the past year, would you say that the United States’ position in the world has grown weaker, stayed about the same, or has it grown stronger?",
+        "options": [
+            "Refused",
+            "Weaker",
+            "Stay about the same",
+            "Stronger"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V161153",
+        "topic": "NotImplemented",
+        "question": "Do you agree or disagree with this statement: ‘This country would be better off if we just stayed home and did not concern ourselves with problems in other parts of the world.’",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V161154",
+        "topic": "NotImplemented",
+        "question": "Do you agree or disagree with this statement: ‘The United States should use military force to solve international problems?’",
+        "options": [
+            "Refused",
+            "Agree",
+            "Disagree"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2,
+            "5": 2
+        }
+    },
+    {
+        "code": "V161173",
+        "topic": "NotImplemented",
+        "question": "In your view, do Republican and Democratic parties do an adequate job of representing the American people, or do they do such a poor job that a third major party is needed?",
+        "options": [
+            "Refused",
+            "Adequate job",
+            "Such a poor job that a third major party is needed"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V161187",
+        "topic": "NotImplemented",
+        "question": "Do you think the federal government should make it more difficult for people to buy a gun than it is now, make it easier for people to buy a gun, or keep these rules about the same as they are now?",
+        "options": [
+            "Refused",
+            "More difficult",
+            "Easier",
+            "Keep these rules about the same"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "code": "V161193",
+        "topic": "NotImplemented",
+        "question": "Some people have proposed that the U.S. Constitution should be changed so that the children of unauthorized immigrants do not automatically get citizenship if they are born in this country. Do you favor or oppose this proposal?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V161195",
+        "topic": "NotImplemented",
+        "question": "What should happen to immigrants who were brought to the U.S. illegally as children and have lived here for at least 10 years and graduated high school here? Should they be sent back where they came from, or should they be allowed to live and work in the United States?",
+        "options": [
+            "Refused",
+            "Should be sent back where they came from",
+            "Should be allowed to live and work in the U.S."
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    {
+        "code": "V161196",
+        "topic": "NotImplemented",
+        "question": "Do you favor, oppose, or neither favor nor oppose building a wall on the U.S. border with Mexico?",
+        "options": [
+            "Refused",
+            "Favor",
+            "Oppose"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "1": 1,
+            "2": 2,
+            "3": -2
+        }
+    },
+    {
+        "code": "V162190",
+        "topic": "Voting-Related",
+        "question": "Do you think there are any important differences in what the Republicans and Democrats stand for?",
+        "options": [
+            "Refused",
+            "Yes, differences",
+            "No, no differences"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [651, 3068, 551],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "-7": -2,
+            "-6": -2,
+            "1": 1,
+            "2": 2
+        }        
+    },
+    {
+        "code": "V162191a",
+        "topic": "Voting-Related",
+        "question": "Which party is more conservative?",
+        "options": [
+            "Refused",
+            "Democrats",
+            "Republicans"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2
+        ],
+        "answer": [1121, 438, 2711],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "-7": -2,
+            "-6": -2,
+            "-1": -2,
+            "1": 1,
+            "2": 2
+        }        
+    },
+    {
+        "code": "V162193",
+        "topic": "Health Care",
+        "question": "Do you favor an increase, decrease, or no change in government spending to help people pay for health insurance when they can’t pay for it all themselves?",
+        "options": [
+            "Refused",
+            "Increase",
+            "Decrease",
+            "No change"
+        ],
+        "options_code": [
+            -2,
+            1,
+            2,
+            3
+        ],
+        "is_merged": true,
+        "merge_mapping": {
+            "-9": -2,
+            "-8": -2,
+            "-7": -2,
+            "-6": -2,
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }        
+    }
+]

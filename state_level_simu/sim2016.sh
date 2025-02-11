@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+user_profile_folder="users/2016_1000" # user profile folder
+output_path="output/2016_1000" # output folder
+pattern="31"
+model="qwen"
+num_threads="64"
+poll_path="polls/2016/poll_vote.json" # voting res
+# allowed_states=("Georgia" "Iowa" "West_Virginia" "Wyoming" "South_Dakota" "North_Carolina") # "ALL" or list
+allowed_states="ALL"
+
+for file in $(ls $user_profile_folder | grep ".json$"); do
+    state_name=$(echo $file | cut -d'.' -f1)
+
+    if [[ "$allowed_states" != "ALL" && ! " ${allowed_states[@]} " =~ " ${state_name} " ]]; then
+        continue
+    fi
+
+    python sim2016.py --poll_path "${poll_path}" --baseline "${baseline}" --pattern "${pattern}" --state_name "${state_name}" --user_profile_folder "${user_profile_folder}" --output_path "${output_path}" --model "${model}" --num_threads "${num_threads}"
+done

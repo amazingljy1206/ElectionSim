@@ -1,0 +1,206 @@
+{
+    "District_of_Columbia": {
+        "demo": 92.1,
+        "rep": 5.4
+    },
+    "Minnesota": {
+        "demo": 52.4,
+        "rep": 45.3
+    },
+    "Wisconsin": {
+        "demo": 49.4,
+        "rep": 48.8
+    },
+    "Kentucky": {
+        "demo": 36.1,
+        "rep": 62.1
+    },
+    "Mississippi": {
+        "demo": 41,
+        "rep": 57.5
+    },
+    "California": {
+        "demo": 63.5,
+        "rep": 34.3
+    },
+    "Tennessee": {
+        "demo": 37.4,
+        "rep": 60.7
+    },
+    "Florida": {
+        "demo": 47.9,
+        "rep": 51.2
+    },
+    "Indiana": {
+        "demo": 41,
+        "rep": 57
+    },
+    "Iowa": {
+        "demo": 44.9,
+        "rep": 53.1
+    },
+    "Louisiana": {
+        "demo": 39.9,
+        "rep": 58.5
+    },
+    "South_Dakota": {
+        "demo": 35.6,
+        "rep": 61.8
+    },
+    "Idaho": {
+        "demo": 33.1,
+        "rep": 63.8
+    },
+    "Delaware": {
+        "demo": 58.7,
+        "rep": 39.8
+    },
+    "Oregon": {
+        "demo": 56.5,
+        "rep": 40.4
+    },
+    "Oklahoma": {
+        "demo": 32.3,
+        "rep": 65.4
+    },
+    "Maine": {
+        "demo": 53.1,
+        "rep": 44
+    },
+    "Arizona": {
+        "demo": 49.4,
+        "rep": 49
+    },
+    "Colorado": {
+        "demo": 55.4,
+        "rep": 41.9
+    },
+    "Connecticut": {
+        "demo": 59.3,
+        "rep": 39.2
+    },
+    "Rhode_Island": {
+        "demo": 59.4,
+        "rep": 38.6
+    },
+    "Vermont": {
+        "demo": 66.1,
+        "rep": 30.7
+    },
+    "Illinois": {
+        "demo": 57.5,
+        "rep": 40.6
+    },
+    "Montana": {
+        "demo": 40.5,
+        "rep": 56.9
+    },
+    "Michigan": {
+        "demo": 50.6,
+        "rep": 47.8
+    },
+    "Missouri": {
+        "demo": 41.4,
+        "rep": 56.8
+    },
+    "South_Carolina": {
+        "demo": 43.4,
+        "rep": 55.1
+    },
+    "New_York": {
+        "demo": 60.9,
+        "rep": 37.7
+    },
+    "Massachusetts": {
+        "demo": 65.6,
+        "rep": 32.1
+    },
+    "Alaska": {
+        "demo": 42.8,
+        "rep": 52.8
+    },
+    "Nevada": {
+        "demo": 50.1,
+        "rep": 47.7
+    },
+    "Texas": {
+        "demo": 46.5,
+        "rep": 52.1
+    },
+    "New_Jersey": {
+        "demo": 57.1,
+        "rep": 41.3
+    },
+    "Georgia": {
+        "demo": 49.5,
+        "rep": 49.2
+    },
+    "Arkansas": {
+        "demo": 34.8,
+        "rep": 62.4
+    },
+    "Washington": {
+        "demo": 58,
+        "rep": 38.8
+    },
+    "Alabama": {
+        "demo": 36.6,
+        "rep": 62
+    },
+    "Utah": {
+        "demo": 37.6,
+        "rep": 58.1
+    },
+    "Kansas": {
+        "demo": 41.5,
+        "rep": 56.1
+    },
+    "Nebraska": {
+        "demo": 39.2,
+        "rep": 58.2
+    },
+    "Pennsylvania": {
+        "demo": 50,
+        "rep": 48.8
+    },
+    "New_Hampshire": {
+        "demo": 52.7,
+        "rep": 45.4
+    },
+    "New_Mexico": {
+        "demo": 54.3,
+        "rep": 43.5
+    },
+    "Virginia": {
+        "demo": 54.1,
+        "rep": 44
+    },
+    "West_Virginia": {
+        "demo": 29.7,
+        "rep": 68.6
+    },
+    "Wyoming": {
+        "demo": 26.6,
+        "rep": 69.9
+    },
+    "North_Dakota": {
+        "demo": 31.8,
+        "rep": 65.1
+    },
+    "Ohio": {
+        "demo": 45.2,
+        "rep": 53.3
+    },
+    "Maryland": {
+        "demo": 65.4,
+        "rep": 32.1
+    },
+    "Hawaii": {
+        "demo": 63.7,
+        "rep": 34.3
+    },
+    "North_Carolina": {
+        "demo": 48.6,
+        "rep": 49.9
+    }
+}

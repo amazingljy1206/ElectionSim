@@ -1,0 +1,16 @@
+{
+    "qwen": {
+        "api_key": "empty",
+        "api_base": "http://127.0.0.1:20030/v1",
+        "model": "qwen2.5-72b",
+        "max_tokens": 2048,
+        "temperature": 0.5
+    },
+    "llama3": {
+        "api_key": "empty",
+        "api_base": "http://127.0.0.1:20031/v1",
+        "model": "llama-3-70b",
+        "max_tokens": 2048,
+        "temperature": 0.5        
+    }
+}
