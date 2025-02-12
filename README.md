@@ -2,6 +2,8 @@
 
 ElectionSim is a large-scale election simulation framework powered by Large Language Models (LLMs). It aims to simulate individual voter behavior and aggregate public opinion to provide an efficient and cost-effective alternative to traditional opinion polling. This repository contains the complete implementation, including LLM deployment, individual-level simulation, and state-level simulation.
 
+
+
 ## Project Overview
 
 In 2024, over 4.2 billion people participated in elections worldwide, making it the largest collective human activity in history. Election outcomes shape the future of nations and profoundly impact public life. However, traditional opinion polling methods face challenges such as high costs and increasing refusal rates, which erode their accuracy. Leveraging the success of LLMs in role-playing tasks, ElectionSim uses LLMs to simulate individual voter opinions and aggregate them to predict election outcomes.
@@ -14,6 +16,10 @@ Key contributions of this work:
 - **Simulating trends and shocks**: developing the capability of accurately simulating the impacts of policy changes, demographic trends, and political shocks.
 
 ![Result of State-level Simulation](figs/state_level_res.png "Result of State-level Simulation in 2016-2024 Presidential Elections")
+
+## News
+
+- [2025-02-12] Initial release of ElectionSim.
 
 
 
