@@ -11,6 +11,7 @@ Key contributions of this work:
 - **Electionsim**: a massive election simulation framework that supports diverse election scenarios with high reliability, leveraging a flexible and customizable distribution sampling strategy to align with real-world demographics.
 - **Million-level voters pool**: a large and diverse voter pool to support massive population election simulations, created by collecting and integrating data from social media platforms.
 - **PPE**: Poll-based Presidential Election~(PPE) Benchmark, the first publicly available benchmark for evaluating voting behavior simulations, enabling future research to build upon and refine our results in this rapidly evolving field.
+- **Simulating trends and shocks**: developing the capability of accurately simulating the impacts of policy changes, demographic trends, and political shocks.
 
 ![Result of State-level Simulation](figs/state_level_res.png "Result of State-level Simulation in 2016-2024 Presidential Elections")
 
